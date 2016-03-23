@@ -1,5 +1,6 @@
 # Hello Brilliant, Useful GitHub
 
+#Adding some conflicts to our README.MD
 
 This is a README.MD file that will be used to describe this
 repository on GitHub
