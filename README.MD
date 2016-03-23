@@ -1,6 +1,8 @@
 # Hello Brilliant, Useful GitHub
 
 #This line creates the actual conflict!
+#Adding some conflicts to our README.MD
+#The conflict has been solved
 
 This is a README.MD file that will be used to describe this
 repository on GitHub
